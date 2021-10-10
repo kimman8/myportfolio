@@ -1,6 +1,6 @@
 const header = {
   homepage: 'https://github.com/kimman8',
-  title: 'JS.',
+  title: 'KY.',
 }
 
 const about = {
@@ -21,7 +21,7 @@ const projects = [
     description: 'Chinese Takeaway Website',
     stack: ['StyledComponents', 'JavaScript', 'React', 'Gatsby', 'GraphQL'],
     sourceCode: 'https://github.com/kimman8/gatsby-pizza',
-    livePreview: 'https://luckystart.netlify.app/',
+    livePreview: 'https://luckystart.netlify.app/lunch',
   },
   {
     name: 'Vibroflow Searcher',

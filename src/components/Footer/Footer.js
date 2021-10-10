@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => (
   <footer>
     <a href='https://github.com/kimman8' className='link'>
-      Created By Kim Yuen
+      &copy;Kim Yuen {new Date().getFullYear()}{' '}
     </a>
   </footer>
 )
