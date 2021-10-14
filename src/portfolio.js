@@ -6,8 +6,7 @@ const header = {
 const about = {
   name: 'Kim Yuen',
   role: 'Front End Engineer',
-  description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+  description: 'Avid rock climber who loves to code',
   resume: 'https://github.com/kimman8',
   social: {
     linkedin: 'https://github.com/kimman8',
