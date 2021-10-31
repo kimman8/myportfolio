@@ -17,7 +17,8 @@ const about = {
 const projects = [
   {
     name: 'Lucky Start',
-    description: 'Chinese Takeaway Website',
+    description:
+      'A website for a local Chinese takeaway joint called Lucky Start. The data was sourced from a REST API.',
     stack: ['StyledComponents', 'JavaScript', 'React', 'Gatsby', 'GraphQL'],
     sourceCode: 'https://github.com/kimman8/gatsby-pizza',
     livePreview: 'https://luckystart.netlify.app/lunch',
@@ -25,7 +26,7 @@ const projects = [
   {
     name: 'Vibroflow Searcher',
     description:
-      'Vibratory equipment app that filters and searches by the equipments features',
+      'A database of vibratory machinery that enables users to easily search for machinery by filtering via the machinery’s features.',
     stack: ['Tailwind', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/kimman8/vibroflow-gallery',
     livePreview: 'https://vibroflow-gallery.vercel.app/',
