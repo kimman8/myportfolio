@@ -46,6 +46,14 @@ const projects = [
     sourceCode: 'https://github.com/kimman8/sickfits-frontend',
     livePreview: 'https://climbing-anchors.netlify.app/products',
   },
+  {
+    name: 'Breaking Bad App',
+    description:
+      'This app was created with React and the Breaking Bad API to show and filter character info.',
+    stack: ['JavaScript', 'React', 'StyledComponents'],
+    sourceCode: 'https://github.com/kimman8/breaking-bad',
+    livePreview: 'https://ilovebreakingbad.netlify.app/',
+  },
 ]
 
 const skills = [
