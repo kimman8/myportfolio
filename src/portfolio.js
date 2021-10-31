@@ -24,7 +24,8 @@ const projects = [
   },
   {
     name: 'Vibroflow Searcher',
-    description: 'Vibratory equipment gallery searcher',
+    description:
+      'Vibratory equipment app that filters and searches by the equipments features',
     stack: ['Tailwind', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/kimman8/vibroflow-gallery',
     livePreview: 'https://vibroflow-gallery.vercel.app/',
@@ -57,11 +58,11 @@ const projects = [
 ]
 
 const skills = [
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
   'React',
+  'JavaScript',
+  'CSS',
+  'HTML',
+  'TypeScript',
   'Git',
   'GraphQL',
   'Gatsby',
