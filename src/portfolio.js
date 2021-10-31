@@ -50,7 +50,7 @@ const projects = [
     name: 'Breaking Bad App',
     description:
       'This app was created with React and the Breaking Bad API to show and filter character info.',
-    stack: ['JavaScript', 'React', 'StyledComponents'],
+    stack: ['JavaScript', 'React', 'StyledComponents', 'Axios'],
     sourceCode: 'https://github.com/kimman8/breaking-bad',
     livePreview: 'https://ilovebreakingbad.netlify.app/',
   },
