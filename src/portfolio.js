@@ -9,7 +9,7 @@ const about = {
   description: 'Avid rock climber who loves to code',
   resume: 'https://github.com/kimman8',
   social: {
-    linkedin: 'https://github.com/kimman8',
+    linkedin: 'https://www.linkedin.com/in/kim-yuen/',
     github: 'https://github.com/kimman8',
   },
 }
