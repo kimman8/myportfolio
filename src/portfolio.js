@@ -8,7 +8,7 @@ const about = {
   role: 'Front End Engineer',
   description: 'Avid rock climber who loves to code',
   resume:
-    'https://drive.google.com/file/d/1byShkIDDUJDRTCbNQk859Gy1iHexvupP/view?usp=sharing',
+    'https://drive.google.com/file/d/1y2uoUf4wi3C732LeIxS5jdBIKARyKYwD/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kim-yuen/',
     github: 'https://github.com/kimman8',
