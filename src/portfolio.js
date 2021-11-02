@@ -7,7 +7,8 @@ const about = {
   name: 'Kim Yuen',
   role: 'Front End Engineer',
   description: 'Avid rock climber who loves to code',
-  resume: 'https://github.com/kimman8',
+  resume:
+    'https://drive.google.com/file/d/1byShkIDDUJDRTCbNQk859Gy1iHexvupP/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kim-yuen/',
     github: 'https://github.com/kimman8',
