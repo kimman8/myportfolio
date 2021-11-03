@@ -20,7 +20,7 @@ const projects = [
     name: 'Lucky Start',
     description:
       'A website for a local Chinese takeaway joint called Lucky Start. The data was sourced from a REST API.',
-    stack: ['StyledComponents', 'JavaScript', 'React', 'Gatsby', 'GraphQL'],
+    stack: ['styled-components', 'JavaScript', 'React', 'Gatsby', 'GraphQL'],
     sourceCode: 'https://github.com/kimman8/gatsby-pizza',
     livePreview: 'https://luckystart.netlify.app/lunch',
   },
@@ -35,27 +35,26 @@ const projects = [
   {
     name: 'Climbing Anchors',
     description:
-      'Online e-commerce store for purchasing and selling cool climbing equipment!',
-    stack: [
-      'KeyStone.JS',
-      'JavaScript',
-      'React',
-      'TypeScript',
-      'GraphQL',
-      'StyledComponents',
-      'Next.JS',
-      'Apollo Client',
-    ],
-    sourceCode: 'https://github.com/kimman8/sickfits-frontend',
-    livePreview: 'https://climbing-anchors.netlify.app/products',
+      'Rock climbing website showcasing some of the best locations for indoor and outdoor rockclimbing as well as some awesome rock climbing gear!',
+    stack: ['JavaScript', 'React', 'styled-components'],
+    sourceCode: 'https://github.com/kimman8/climbing-react',
+    livePreview: 'https://rock-climbing.netlify.app/',
   },
   {
     name: 'Breaking Bad App',
     description:
       'This app was created with React and the Breaking Bad API to show and filter character info.',
-    stack: ['JavaScript', 'React', 'StyledComponents', 'Axios'],
+    stack: ['JavaScript', 'React', 'styled-components', 'Axios'],
     sourceCode: 'https://github.com/kimman8/breaking-bad',
     livePreview: 'https://ilovebreakingbad.netlify.app/',
+  },
+  {
+    name: 'Expense Tracker',
+    description:
+      'This app was created with React and JavaScript to help keep track of expenses and incomes.',
+    stack: ['JavaScript', 'React'],
+    sourceCode: 'https://github.com/kimman8/expense-tracker',
+    livePreview: 'https://helptrackmyexpenses.netlify.app/',
   },
 ]
 
