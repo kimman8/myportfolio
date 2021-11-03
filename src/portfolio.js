@@ -20,7 +20,7 @@ const projects = [
   {
     name: 'Lucky Start',
     description:
-      'A website for a local Chinese takeaway joint called Lucky Start. The data was sourced from a REST API.',
+      'A responsive website for a local Chinese takeaway joint called Lucky Start. Gatsby Image was used to optimize the images automatically and GraphQL was used to query the files.',
     stack: ['styled-components', 'JavaScript', 'React', 'Gatsby', 'GraphQL'],
     sourceCode: 'https://github.com/kimman8/gatsby-pizza',
     livePreview: 'https://luckystart.netlify.app/lunch',
@@ -29,7 +29,7 @@ const projects = [
     name: 'Vibroflow Searcher',
     description:
       'A database of vibratory machinery that enables users to easily search for machinery by filtering via the machinery’s features.',
-    stack: ['Tailwind', 'JavaScript', 'React'],
+    stack: ['TailWind CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/kimman8/vibroflow-gallery',
     livePreview: 'https://vibroflow-gallery.vercel.app/',
   },
@@ -42,6 +42,15 @@ const projects = [
     livePreview: 'https://rock-climbing.netlify.app/',
   },
   {
+    name: 'KA CHING Banking',
+    description:
+      'Banking website built using styled-components and React Smooth Scroll. The website is fully responsive and utilises React Hooks and React Router.',
+    stack: ['JavaScript', 'React', 'styled-components'],
+    sourceCode:
+      'https://github.com/kimman8/smooth-scroll-react-website-styled-components',
+    livePreview: 'https://kaching.netlify.app/',
+  },
+  {
     name: 'Breaking Bad App',
     description:
       'This app was created with React and the Breaking Bad API to show and filter character info.',
@@ -52,7 +61,7 @@ const projects = [
   {
     name: 'Expense Tracker',
     description:
-      'This app was created with React and JavaScript to help keep track of expenses and incomes.',
+      'This Expense Tracker was created with React Hooks (useState, useContext, useReducer) and the context API to help keep track of expenses and incomes.',
     stack: ['JavaScript', 'React'],
     sourceCode: 'https://github.com/kimman8/expense-tracker',
     livePreview: 'https://helptrackmyexpenses.netlify.app/',
@@ -62,15 +71,15 @@ const projects = [
 const skills = [
   'React',
   'JavaScript',
-  'CSS',
-  'HTML',
+  'CSS3',
+  'HTML5',
   'TypeScript',
   'Git',
   'GraphQL',
   'Gatsby',
   'Next.JS',
-  'StyledComponents',
-  'TailwindCSS',
+  'styled-components',
+  'TailWind CSS',
 ]
 
 const contact = {
