@@ -6,7 +6,8 @@ const header = {
 const about = {
   name: 'Kim Yuen',
   role: 'Front End Engineer',
-  description: 'Avid rock climber who loves to code',
+  description:
+    'Front end web developer with an appetite for growth. Computer-Aided Design expert. Currently focused on React and loving the magical world of coding.',
   resume:
     'https://drive.google.com/file/d/1hH8svg3rGgP63IDpWm4jjOefEsQ5f51b/view?usp=sharing',
   social: {
