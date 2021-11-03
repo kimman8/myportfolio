@@ -8,8 +8,7 @@ const about = {
   role: 'Front End Engineer',
   description:
     'Front end web developer with an appetite for growth. Computer-Aided Design expert. Currently focused on React and loving the magical world of coding.',
-  resume:
-    'https://drive.google.com/file/d/1oAMLF3PMbIZjvrA-J-XZ1Dw6o0iedJE_/view?usp=sharing',
+  resume: 'https://resume.io/r/UaBM5SwLP',
   social: {
     linkedin: 'https://www.linkedin.com/in/kim-yuen/',
     github: 'https://github.com/kimman8',
