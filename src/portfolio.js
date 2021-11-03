@@ -9,7 +9,7 @@ const about = {
   description:
     'Front end web developer with an appetite for growth. Computer-Aided Design expert. Currently focused on React and loving the magical world of coding.',
   resume:
-    'https://drive.google.com/file/d/1hH8svg3rGgP63IDpWm4jjOefEsQ5f51b/view?usp=sharing',
+    'https://drive.google.com/file/d/1oAMLF3PMbIZjvrA-J-XZ1Dw6o0iedJE_/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kim-yuen/',
     github: 'https://github.com/kimman8',
