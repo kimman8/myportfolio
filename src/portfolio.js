@@ -5,9 +5,9 @@ const header = {
 
 const about = {
   name: 'Kim Yuen',
-  role: 'Front End Engineer',
+  role: 'Frontend Developer',
   description:
-    'Front end web developer with an appetite for growth. Computer-Aided Design expert. Currently focused on React and loving the magical world of coding.',
+    'Frontend Developer with an appetite for growth. Currently focused on React and loving the magical world of coding.',
   resume: 'https://resume.io/r/UaBM5SwLP',
   social: {
     linkedin: 'https://www.linkedin.com/in/kim-yuen/',
@@ -28,7 +28,7 @@ const projects = [
     name: 'Vibroflow Searcher',
     description:
       'A database of vibratory machinery that enables users to easily search for machinery by filtering via the machinery’s features.',
-    stack: ['TailWind CSS', 'JavaScript', 'React'],
+    stack: ['TailWind CSS', 'JavaScript', 'React', 'axios'],
     sourceCode: 'https://github.com/kimman8/vibroflow-gallery',
     livePreview: 'https://vibroflow-gallery.vercel.app/',
   },
