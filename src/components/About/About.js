@@ -20,7 +20,7 @@ const About = () => {
         {resume && (
           <a href={resume} download>
             <button type='button' className='btn btn--outline'>
-              Resume
+              See My CV
             </button>
           </a>
         )}
